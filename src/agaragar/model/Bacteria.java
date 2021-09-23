@@ -7,10 +7,6 @@ package agaragar.model;
 
 import java.util.Random;
 
-/**
- *
- * @author haperlin
- */
 public class Bacteria extends Objeto implements Runnable{
     
     private boolean vivo;

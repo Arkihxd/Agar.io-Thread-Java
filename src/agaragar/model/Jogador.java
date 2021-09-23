@@ -5,10 +5,6 @@
  */
 package agaragar.model;
 
-/**
- *
- * @author haperlin
- */
 public class Jogador extends Objeto{
     private String nome;
     

@@ -12,10 +12,6 @@ import java.awt.RenderingHints;
 import java.util.ArrayList;
 import javax.swing.*;
 
-/**
- *
- * @author haperlin
- */
 public class PainelJogo extends JPanel{
     
     private ArrayList<Objeto> objetos;

@@ -2,10 +2,6 @@ package agaragar.model;
 
 import java.awt.Color;
 
-/**
- *
- * @author haperlin
- */
 public class Objeto {
     private int x,y;
     private int xD,yD;

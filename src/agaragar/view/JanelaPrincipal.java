@@ -7,10 +7,6 @@ package agaragar.view;
 
 import javax.swing.*;
 
-/**
- *
- * @author haperlin
- */
 public class JanelaPrincipal extends JFrame{
     
     public JanelaPrincipal(int largura, int altura, PainelJogo painel){

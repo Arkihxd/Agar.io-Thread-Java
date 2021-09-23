@@ -7,10 +7,6 @@ package agaragar;
 
 import agaragar.controler.Jogo;
 
-/**
- *
- * @author haperlin
- */
 public class AgarAgar {
 
     /**

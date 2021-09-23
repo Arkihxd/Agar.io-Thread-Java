@@ -24,10 +24,7 @@ import java.util.Iterator;
 import java.util.Random;
 import java.util.logging.Level;
 import java.util.logging.Logger;
-/**
- *
- * @author haperlin
- */
+
 public class Jogo implements KeyListener, Runnable{
     
     private ArrayList<Objeto> objetos;
