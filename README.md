@@ -13,6 +13,10 @@
 Build do projeto configurado para o NetBeans IDE, só abrir e executar o projeto
 ```
 
+## Regras
+```
+O usuário controla o objeto laranja, os vermelhos aumentam tamanho e os amarelos diminuem
+```
 ### Capturas em jogo
 ![img](https://i.imgur.com/pMIcXgh.png)
 
